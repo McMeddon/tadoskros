@@ -13,9 +13,9 @@
   "lowresSliderDefault": 2000,
   "lowresSliderMin": 500,
   "maps": [
-    "tadoskros",
-    "tadoskros_nether",
-    "tadoskros_the_end"
+    "vexokor_nether",
+    "vexokor_the_end",
+    "vexokor"
   ],
   "scripts": [],
   "styles": []
